@@ -1,1 +1,5 @@
+#environment files
 .env
+
+#Google Cloud Service Account credentials
+config/student-registration-service-account.json
